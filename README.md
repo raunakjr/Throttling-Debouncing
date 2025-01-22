@@ -1,1 +1,1 @@
-# Throttling-Debouncing
+# Throttling-Debouncing && Pagination

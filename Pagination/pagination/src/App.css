@@ -1,0 +1,22 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 200px;
+  justify-content: center;
+  align-items: center;
+}
+.z {
+  padding-left: 20px;
+  scroll-behavior: smooth;
+  cursor: pointer;
+}
